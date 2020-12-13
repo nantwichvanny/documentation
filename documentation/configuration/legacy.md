@@ -7,6 +7,7 @@ description: "Configure HACS with YAML (legacy)"
 
 :::info
 _This page assume that you have already finished the [installation](/docs/installation/prerequisites)_
+You can also alter the configuration of HACS by adding to the following to your configuraion.yaml file, but this is not necessary if you have completed the previous stage.
 :::
 
 ## Example configuration
